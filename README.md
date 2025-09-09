@@ -23,7 +23,6 @@
 - Spot opportunities for revenue growth
 
 **Role of Reports**
-
 - Optimize customer discounts
 - Support negotiations with clients
 - Identify new markets for business expansion
@@ -31,29 +30,33 @@
 
 ## Finance Report :
 
-- **Project Objective:** 
+**Project Objective:** 
 
-  **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
+**1.** Create Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
 
-  **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
+**2.** Create Profit and Loss (P&L) Reports by [Markets](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
-  - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+**Purpose**
+- Evaluate financial performance, support decision-making, and strengthen stakeholder communication.
 
-  - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+**Why Analyze Finance Data?**
+- Benchmark against peers & previous years
+- Lay a foundation for budgeting & forecasting
 
- - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+**Role of Reports**
+- Align financial planning with business strategy
+- Build confidence in organizational financial outlook
 
+**Technical Skills**
+- ETL methodology (Extract, Transform, Load)
+- Building date tables with Power Query
+- Deriving fiscal months & quarters
+- Establishing data model relationships with Power Pivot
+- Integrating supplementary data into existing models
+- Creating calculated columns with DAX
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+**Soft Skills**
+- Deep understanding of Sales & Finance Reporting
+- Designing user-centric reports with empathy
+- Optimizing report generation for efficiency
+- Structured approach to report development
