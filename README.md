@@ -3,7 +3,7 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+- **Project Objective:** 
 
   **1.** Create a [Customer Performance Report](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
@@ -24,9 +24,9 @@
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project Objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months] (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
 
    **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
