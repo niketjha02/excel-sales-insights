@@ -9,7 +9,7 @@
 
   **2.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
-  **3.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers in Indian Market}(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
+  **3.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers in Indian Market](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -22,7 +22,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/niketjha02/Excel-Sales-Analytics/blob/main/P%26L_Report_by_Fiscal_year_NJ.pdf)_ & _[Months](https://github.com/niketjha02/Excel-Sales-Analytics/blob/main/P%26L_Report_by_months_NJ.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/niketjha02/Excel-Sales-Analytics/blob/main/report1_NJ.pdf)_
 
