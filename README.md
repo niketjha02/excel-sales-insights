@@ -11,6 +11,10 @@
 
   **3.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers in Indian Market](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
+  **4.** Conduct a comprehensive report on [Top 10 Products by Highest Growth %](https://github.com/niketjha02/excel-sales-insights/blob/main/Top%2010%20Products%20by%20Growth%25_2021%20vs%202020.pdf)
+
+  **5.** Conduct a comprehensive report on [Quarterly Zonewise Gross Margin %] (https://github.com/niketjha02/excel-sales-insights/blob/main/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf)
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -22,11 +26,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months] (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/niketjha02/Excel-Sales-Analytics/blob/main/report1_NJ.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+  - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
