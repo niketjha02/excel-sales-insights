@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]_(https://github.com/niketjha02/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance_NJ.pdf)
+    **1.** Create a [customer performance report]: (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
