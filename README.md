@@ -1,7 +1,6 @@
 # Excel-Sales-Analytics
 
-## Sales Report :
-
+## Sales Report:
 
 **Project Objective:** 
 
@@ -16,19 +15,21 @@
   **5.** Build a [Quarterly Zonewise Gross Margin %](https://github.com/niketjha02/excel-sales-insights/blob/main/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf)
 
 **Purpose**
-- Enable businesses to monitor and evaluate sales performance effectively.
-- Why Analyze Sales Data?
-- Identify sales patterns
-- Track KPIs for better decision-making
-- Spot opportunities for revenue growth
+-Enable businesses to assess and monitor sales performance comprehensively.
 
-**Role of Reports**
-- Optimize customer discounts
-- Support negotiations with clients
-- Identify new markets for business expansion
+**Why it matters?** 
+- Discover patterns
+- Track KPIs
+- Make data-driven decisions
+  
+**How it helps?** 
+- Get clear insights
+- Optimize discounts
+- Empower negotiations
+- Explore new markets
 
 
-## Finance Report :
+## Finance Report:
 
 **Project Objective:** 
 
@@ -43,11 +44,13 @@
 - Benchmark against peers & previous years
 - Lay a foundation for budgeting & forecasting
 
-**Role of Reports**
-- Align financial planning with business strategy
-- Build confidence in organizational financial outlook
+**Why it matters?** 
+- Benchmark performance over time & against competitors.
 
-**Technical Skills**
+**Impact** 
+- Aligns financial planning with strategic goals and instills confidence in your financial outlook.
+
+## Technical Skills:
 - ETL methodology (Extract, Transform, Load)
 - Building date tables with Power Query
 - Deriving fiscal months & quarters
@@ -55,7 +58,7 @@
 - Integrating supplementary data into existing models
 - Creating calculated columns with DAX
 
-**Soft Skills**
+## Soft Skills:
 - Deep understanding of Sales & Finance Reporting
 - Designing user-centric reports with empathy
 - Optimizing report generation for efficiency
