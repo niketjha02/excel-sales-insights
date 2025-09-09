@@ -5,13 +5,11 @@
 
 - **Project objective:** 
 
-  **1.** Create a [Customer Performance Report]:
-  (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
+  **1.** Create a [Customer Performance Report](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
-  **2.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers]:
-  (https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
+  **2.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
-  **3.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers in Indian Market]:(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
+  **3.** Conduct a comprehensive comparison between [Net Sales Performance by All Customers in Indian Market}(https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
